@@ -3086,6 +3086,11 @@ var stations = {
             url: "https://stream.sunshine-live.de/live/mp3-192"
         },
         {
+            name: "NRJ",
+            logo: "stations/images-europe/france/NRJ.png",
+            url: "https://streaming.nrjaudio.fm/oufdfatx4thg"
+        },
+        {
             name: "TOGGO Radio",
             logo: "stations/images-europe/germany/TOGGO Radio.png",
             url: "https://radio.toggo.de/live/mp3-192"
